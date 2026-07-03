@@ -1,4 +1,4 @@
-# 
+# Automático AI Expense Tracker with NLP ferramentas. Com tomada de decisão automatizada e ética de IA — otimizado para máximo desempenho.
 
 
 
